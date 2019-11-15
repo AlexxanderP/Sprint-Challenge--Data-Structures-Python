@@ -55,3 +55,4 @@ class LinkedList:
       current.next_node = prev
     self.head = current
     return current
+
